@@ -1,0 +1,14 @@
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\BaseballLibrary\bin\Debug\Baseball.mdf
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\BaseballLibrary\bin\Debug\Baseball_log.ldf
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\BaseballLibrary\bin\Debug\BaseballLibrary.dll.config
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\BaseballLibrary\bin\Debug\BaseballLibrary.dll
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\BaseballLibrary\bin\Debug\BaseballLibrary.pdb
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\BaseballLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\BaseballLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\BaseballLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\BaseballLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\BaseballLibrary\obj\Debug\BaseballLibrary.csprojAssemblyReference.cache
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\BaseballLibrary\obj\Debug\BaseballLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\BaseballLibrary\obj\Debug\BaseballLibrary.csproj.CopyComplete
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\BaseballLibrary\obj\Debug\BaseballLibrary.dll
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\BaseballLibrary\obj\Debug\BaseballLibrary.pdb
